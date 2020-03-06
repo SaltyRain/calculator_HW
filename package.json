@@ -1,0 +1,19 @@
+{
+  "name": "calculator_garipov",
+  "version": "1.0.0",
+  "description": "HW translate ES6 calcualtor code to TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "calculator_HW"
+  },
+  "author": "SaltyRain",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
